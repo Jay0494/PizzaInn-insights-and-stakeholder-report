@@ -93,11 +93,10 @@ Pizza Inn, a leading player in the pizza industry, aims to enhance its sales per
 2. Enhance predictive analytics to monitor trends, allowing for agile strategy adjustments.
 
 ---
-
+# STAKEHOLDER REPORT
 ### Managerial Report: Pizza Inn's 2023 Performance and Strategic Plan for 2024
 
-**Prepared by:** [Your Name]  
-**Date:** [Insert Date]  
+**Prepared by:** Elijah Okpako (Data analyst)  
 
 ---
 
@@ -129,4 +128,3 @@ Pizza Inn's 2023 sales performance highlights stable revenues with clear trends 
 
 ---
 
-This strategic focus ensures Pizza Inn capitalizes on market opportunities, increases profitability, and enhances customer satisfaction in 2024.
