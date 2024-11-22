@@ -1,3 +1,5 @@
+![PIZZA](https://github.com/user-attachments/assets/5b18d451-ddee-42b6-8b8c-47cbc9809a85)
+
 #### Executive Summary  
 Pizza Inn, a leading player in the pizza industry, aims to enhance its sales performance in 2024 through a data-driven approach. This project focuses on analyzing historical sales, customer behavior, and operational data to uncover actionable insights. These insights will inform strategies around menu optimization, targeted marketing, efficient resource allocation, and demand forecasting. By leveraging these strategies, Pizza Inn can improve revenue, profitability, and customer satisfaction, addressing challenges such as seasonal demand fluctuations, operational inefficiencies, and underperforming product categories.
 
