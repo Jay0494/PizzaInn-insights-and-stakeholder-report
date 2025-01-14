@@ -53,8 +53,8 @@ Pizza Inn, a leading player in the pizza industry, aims to enhance its sales per
 
 #### Revenue by Month
 1. Revenue remained relatively stable with a minor **monthly change rate of 0.33%**.
-2. Peak month: **March (£72.6K)**.
-3. Lowest-performing month: **June (£64.0K)**.
+2. Peak month: **July (£72.6K)**.
+3. Lowest-performing month: **October (£64.0K)**.
 
 #### Top Revenue-Generating Pizzas
 1. **Thai Chicken Pizza** is the top-selling pizza with £43,434.25 revenue.
@@ -75,16 +75,16 @@ Pizza Inn, a leading player in the pizza industry, aims to enhance its sales per
 #### Marketing Strategies
 1. **Targeted Campaigns:**
    - Use customer purchase data to design targeted promotions for top-selling items, especially through high-engagement platforms like the **website** and **Facebook**.
-   - Run seasonal campaigns during low-performing months such as **June**.
+   - Run seasonal campaigns during low-performing months such as **October**.
 2. **Promote High-Performing Platforms:** Invest more in mobile app user acquisition and website optimization to sustain the current sales distribution.
 
 #### Seasonal and Event-Driven Adjustments
-1. Develop **season-specific menus** or promotions during low-performing periods (e.g., summer months).
+1. Develop **season-specific menus** or promotions during low-performing periods.
 2. Offer special discounts or deals during events and holidays to capitalize on fluctuating demand.
 
 #### Operational Efficiency
 1. **Resource Allocation:**
-   - Shift resources toward high-demand months like **March** and platforms with higher sales volume (e.g., website and in-store operations).
+   - Shift resources toward high-demand months like **July** and platforms with higher sales volume (e.g., website and Facebook store operations).
    - Optimize staffing schedules and inventory management during periods of lower demand.
 2. **AOV Improvement:** Upsell high-margin items like drinks or sides alongside top-performing pizzas to boost the average order value.
 
@@ -119,7 +119,7 @@ Pizza Inn's 2023 sales performance highlights stable revenues with clear trends 
    - Focus on high-performing platforms such as the website and Facebook.
 
 3. **Operational Enhancements:**
-   - Allocate resources to meet demand in peak months (e.g., March).
+   - Allocate resources to meet demand in peak months (e.g., July).
    - Upsell complementary products to boost AOV.
 
 4. **Forecasting and Resource Management:**
