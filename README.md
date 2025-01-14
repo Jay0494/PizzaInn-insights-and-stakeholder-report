@@ -106,7 +106,7 @@ Pizza Inn's 2023 sales performance highlights stable revenues with clear trends 
 #### 2023 Key Metrics:
 - Total Revenue: **£817,860.05**
 - Pizzas Sold: **49,574**
-- Monthly Revenue Change: **0.33%**
+- Monthly sales growth(Monthly Revenue Change): **0.33%**
 - Average Order Value: **£16.82**
 
 #### Strategic Recommendations for 2024
